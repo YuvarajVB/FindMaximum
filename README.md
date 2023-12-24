@@ -50,6 +50,13 @@ def max_marks(list1):
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
+i)To find the maximum of marks using the list method sort
+![Screenshot 2023-12-24 081405](https://github.com/23007232/FindMaximum/assets/151488375/474aefac-1acf-411b-aa89-2b0e438d04b5)
+ii)To find the maximum marks using the list method max().
+![Screenshot 2023-12-24 081436](https://github.com/23007232/FindMaximum/assets/151488375/c9e9c94c-6c71-4f19-85cc-05fc31e1f7e6)
+iii)To find the maximum marks without using builtin functions.
+![Screenshot 2023-12-24 081620](https://github.com/23007232/FindMaximum/assets/151488375/80a2c675-b379-4401-975e-a21a733c5261)
+
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
